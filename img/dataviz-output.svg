@@ -1,0 +1,1962 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="8.5in"
+   height="11in"
+   viewBox="0 0 215.9 279.4"
+   version="1.1"
+   id="svg6784"
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="dataviz-output.svg"
+   inkscape:export-filename="/home/c-user/development/other/redditFormula1-data/img/dataviz-output.png"
+   inkscape:export-xdpi="188.24001"
+   inkscape:export-ydpi="188.24001">
+  <defs
+     id="defs6778">
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible;"
+       id="marker5554"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Send">
+      <path
+         transform="scale(0.2) rotate(180) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5552" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker5550"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="Arrow1Sstart">
+      <path
+         transform="scale(0.2) translate(6,0)"
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1pt;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 0.0,0.0 L 5.0,-5.0 L -12.5,0.0 L 5.0,5.0 L 0.0,0.0 z "
+         id="path5548" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Send"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Send"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4937"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) rotate(180) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mend"
+       style="overflow:visible;"
+       inkscape:isstock="true">
+      <path
+         id="path4931"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) rotate(180) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Sstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Sstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4934"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.3) translate(-2.3,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Mstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Mstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4928"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(0.6) translate(0,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="Arrow2Lstart"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="Arrow2Lstart"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4922"
+         style="fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round;stroke:#000000;stroke-opacity:1;fill:#000000;fill-opacity:1"
+         d="M 8.7185878,4.0337352 L -2.2072895,0.016013256 L 8.7185884,-4.0017078 C 6.9730900,-1.6296469 6.9831476,1.6157441 8.7185878,4.0337352 z "
+         transform="scale(1.1) translate(1,0)" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="392.41014"
+     inkscape:cy="521.27372"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="in"
+     inkscape:window-width="2560"
+     inkscape:window-height="1388"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6781">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-17.6)">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:8.36288261px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.20907205"
+       x="107.83894"
+       y="6.9756098"
+       id="text7331"><tspan
+         sodipodi:role="line"
+         id="tspan7329"
+         x="107.83894"
+         y="14.584739"
+         style="stroke-width:0.20907205" /><tspan
+         sodipodi:role="line"
+         x="107.83894"
+         y="25.038342"
+         style="font-size:8.41987133px;line-height:1.39999998;text-align:center;text-anchor:middle;stroke-width:0.20907205"
+         id="tspan7333" /><tspan
+         sodipodi:role="line"
+         x="107.83894"
+         y="36.175289"
+         style="font-weight:bold;font-size:8.41987133px;line-height:1.39999998;text-align:center;text-anchor:middle;stroke-width:0.20907205"
+         id="tspan7341">Hide comment scores to decrease downvotes.</tspan></text>
+    <text
+       id="text8227"
+       y="65.811859"
+       x="-391.20853"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="font-size:4.93888903px;stroke-width:0.26458332"
+         y="65.811859"
+         x="-391.20853"
+         id="tspan8225"
+         sodipodi:role="line">Impact of hiding the comment scores for 30 minutes:</tspan></text>
+    <g
+       id="g8293"
+       transform="matrix(0.18989768,0,0,0.18989768,-84.525079,173.57467)">
+      <g
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+         class="tick"
+         transform="translate(-1070,40.5)"
+         id="g8233">
+        <line
+           style="stroke:currentColor"
+           y2="0"
+           y1="0"
+           x1="0"
+           x2="-6"
+           id="line8229" />
+        <text
+           style="fill:currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text8231">-2.0</text>
+      </g>
+      <g
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+         class="tick"
+         transform="translate(-1070,-9.5)"
+         id="g8239">
+        <line
+           style="stroke:currentColor"
+           y2="0"
+           y1="0"
+           x1="0"
+           x2="-6"
+           id="line8235" />
+        <text
+           style="fill:currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text8237">-1.5</text>
+      </g>
+      <g
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+         class="tick"
+         transform="translate(-1070,-59.5)"
+         id="g8245">
+        <line
+           style="stroke:currentColor"
+           y2="0"
+           y1="0"
+           x1="0"
+           x2="-6"
+           id="line8241" />
+        <text
+           style="fill:currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text8243">-1.0</text>
+      </g>
+      <g
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+         class="tick"
+         transform="translate(-1070,-109.5)"
+         id="g8251">
+        <line
+           style="stroke:currentColor"
+           y2="0"
+           y1="0"
+           x1="0"
+           x2="-6"
+           id="line8247" />
+        <text
+           style="fill:currentColor"
+           x="-9"
+           dy="0.31999999em"
+           id="text8249">-0.5</text>
+      </g>
+      <line
+         id="line8253"
+         x2="-1076"
+         x1="-1070"
+         y1="-159.5"
+         y2="-159.5"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         id="text8255"
+         dy="3.8399999"
+         x="-1079"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+         y="-159.5">0.0</text>
+      <text
+         style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor"
+         id="text8257"
+         font-weight="bold"
+         x="-1095.3594"
+         y="-187.93289">Average vote score</text>
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#1f77b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M -1070,-160 -954.375,-93.534247 -838.75,11.67123"
+         id="path8259" />
+      <path
+         sodipodi:nodetypes="ccc"
+         inkscape:connector-curvature="0"
+         style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#ff7f0e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -1070,-160 115.625,49.94253 115.625,80.8046"
+         id="path8261" />
+      <g
+         id="g8291"
+         transform="translate(0,-210)">
+        <path
+           id="path8263"
+           d="m -1069.5,250.5 h 230.75"
+           class="domain"
+           inkscape:connector-curvature="0"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor"
+           sodipodi:nodetypes="cc" />
+        <g
+           id="g8269"
+           transform="translate(-1069.5,250)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line8265"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text8267"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">0</text>
+        </g>
+        <g
+           id="g8275"
+           transform="translate(-992.41667,250)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line8271"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text8273"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">10</text>
+        </g>
+        <g
+           id="g8281"
+           transform="translate(-915.33333,250)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line8277"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text8279"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">20</text>
+        </g>
+        <g
+           id="g8287"
+           transform="translate(-838.25,250)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line8283"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text8285"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">30</text>
+        </g>
+        <text
+           y="280.64966"
+           x="-933.34375"
+           font-weight="bold"
+           id="text8289"
+           style="font-weight:bold;text-anchor:start;fill:currentColor">time in minutes</text>
+      </g>
+    </g>
+    <g
+       id="g8393"
+       transform="matrix(0.18989768,0,0,0.18989768,-84.525079,138.27876)">
+      <path
+         id="path8295"
+         d="m -1069.5,660.34375 h 462"
+         class="domain"
+         inkscape:connector-curvature="0"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor"
+         sodipodi:nodetypes="cc" />
+      <g
+         id="g8301"
+         transform="translate(-1069.5,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8297"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8299"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">0</text>
+      </g>
+      <g
+         id="g8307"
+         transform="translate(-992.41667,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8303"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8305"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">10</text>
+      </g>
+      <g
+         id="g8313"
+         transform="translate(-915.33333,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8309"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8311"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">20</text>
+      </g>
+      <g
+         id="g8319"
+         transform="translate(-838.25,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8315"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8317"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">30</text>
+      </g>
+      <g
+         id="g8325"
+         transform="translate(-761.16667,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8321"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8323"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">40</text>
+      </g>
+      <g
+         id="g8331"
+         transform="translate(-684.08333,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8327"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8329"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">50</text>
+      </g>
+      <g
+         id="g8337"
+         transform="translate(-607,659.84375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+        <line
+           id="line8333"
+           y2="6"
+           x1="0"
+           y1="0"
+           x2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8335"
+           dy="0.70999998em"
+           y="9"
+           style="fill:currentColor">60</text>
+      </g>
+      <g
+         id="g8343"
+         transform="translate(-1070,660.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8339"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8341"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-3.5</text>
+      </g>
+      <g
+         id="g8349"
+         transform="translate(-1070,610.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8345"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8347"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-3.0</text>
+      </g>
+      <g
+         id="g8355"
+         transform="translate(-1070,560.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8351"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8353"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-2.5</text>
+      </g>
+      <g
+         id="g8361"
+         transform="translate(-1070,510.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8357"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8359"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-2.0</text>
+      </g>
+      <g
+         id="g8367"
+         transform="translate(-1070,460.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8363"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8365"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-1.5</text>
+      </g>
+      <g
+         id="g8373"
+         transform="translate(-1070,410.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8369"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8371"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-1.0</text>
+      </g>
+      <g
+         id="g8379"
+         transform="translate(-1070,360.34375)"
+         class="tick"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+        <line
+           id="line8375"
+           x2="-6"
+           x1="0"
+           y1="0"
+           y2="0"
+           style="stroke:currentColor" />
+        <text
+           id="text8377"
+           dy="0.31999999em"
+           x="-9"
+           style="fill:currentColor">-0.5</text>
+      </g>
+      <line
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+         y2="310.34375"
+         y1="310.34375"
+         x1="-1070"
+         x2="-1076"
+         id="line8381" />
+      <text
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+         x="-1079"
+         dy="3.8399999"
+         id="text8383"
+         y="310.34375">0.0</text>
+      <text
+         x="-1095.3594"
+         font-weight="bold"
+         id="text8385"
+         style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor"
+         y="294.59976">Average vote score</text>
+      <path
+         id="path8387"
+         d="m -1070,309.84375 115.625,66.46575 115.625,105.20548 115.625,87.78082 115.625,72.43835"
+         style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#1f77b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         sodipodi:nodetypes="ccccc"
+         id="path8389"
+         d="m -1070,309.84375 115.625,9.43134 115.625,75.17338 115.625,49.79195 115.625,50.1387"
+         style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#2ca02c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         inkscape:connector-curvature="0" />
+      <text
+         y="690.49341"
+         x="-702.09375"
+         font-weight="bold"
+         id="text8391"
+         style="font-weight:bold;text-anchor:start;fill:currentColor">time in minutes</text>
+    </g>
+    <g
+       id="g8485"
+       transform="matrix(0.18989768,0,0,0.18989768,-198.30975,214.41313)">
+      <g
+         id="g8483"
+         transform="translate(-1031.2662,-310.22982)">
+        <path
+           sodipodi:nodetypes="cc"
+           class="domain"
+           d="m 30.5,570.5 h 462"
+           id="path8395"
+           inkscape:connector-curvature="0"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor" />
+        <g
+           class="tick"
+           transform="translate(30.5,570)"
+           id="g8401"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8397"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8399"
+             style="fill:currentColor">0</text>
+        </g>
+        <g
+           class="tick"
+           transform="translate(107.58333,570)"
+           id="g8407"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8403"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8405"
+             style="fill:currentColor">10</text>
+        </g>
+        <g
+           class="tick"
+           transform="translate(184.66667,570)"
+           id="g8413"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8409"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8411"
+             style="fill:currentColor">20</text>
+        </g>
+        <g
+           class="tick"
+           transform="translate(261.75,570)"
+           id="g8419"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8415"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8417"
+             style="fill:currentColor">30</text>
+        </g>
+        <g
+           class="tick"
+           transform="translate(338.83333,570)"
+           id="g8425"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8421"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8423"
+             style="fill:currentColor">40</text>
+        </g>
+        <g
+           class="tick"
+           transform="translate(415.91667,570)"
+           id="g8431"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8427"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8429"
+             style="fill:currentColor">50</text>
+        </g>
+        <g
+           class="tick"
+           transform="translate(493,570)"
+           id="g8437"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             y2="6"
+             id="line8433"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             y="9"
+             dy="0.70999998em"
+             id="text8435"
+             style="fill:currentColor">60</text>
+        </g>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="570.5"
+           y1="570.5"
+           x1="30"
+           id="line8439"
+           x2="24" />
+        <text
+           y="570.5"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8441"
+           dy="3.8399999"
+           x="21">0</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="528.19232"
+           y1="528.19232"
+           x1="30"
+           id="line8443"
+           x2="24" />
+        <text
+           y="528.19232"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8445"
+           dy="3.8399999"
+           x="21">2</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="485.88461"
+           y1="485.88461"
+           x1="30"
+           id="line8447"
+           x2="24" />
+        <text
+           y="485.88461"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8449"
+           dy="3.8399999"
+           x="21">4</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="443.57693"
+           y1="443.57693"
+           x1="30"
+           id="line8451"
+           x2="24" />
+        <text
+           y="443.57693"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8453"
+           dy="3.8399999"
+           x="21">6</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="401.26923"
+           y1="401.26923"
+           x1="30"
+           id="line8455"
+           x2="24" />
+        <text
+           y="401.26923"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8457"
+           dy="3.8399999"
+           x="21">8</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="358.96155"
+           y1="358.96155"
+           x1="30"
+           id="line8459"
+           x2="24" />
+        <text
+           y="358.96155"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8461"
+           dy="3.8399999"
+           x="21">10</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="316.65384"
+           y1="316.65384"
+           x1="30"
+           id="line8463"
+           x2="24" />
+        <text
+           y="316.65384"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8465"
+           dy="3.8399999"
+           x="21">12</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="274.34616"
+           y1="274.34616"
+           x1="30"
+           id="line8467"
+           x2="24" />
+        <text
+           y="274.34616"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8469"
+           dy="3.8399999"
+           x="21">14</text>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="232.03847"
+           y1="232.03847"
+           x1="30"
+           id="line8471"
+           x2="24" />
+        <text
+           y="232.03847"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           id="text8473"
+           dy="3.8399999"
+           x="21">16</text>
+        <text
+           y="203.90646"
+           style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor"
+           id="text8475"
+           font-weight="bold"
+           x="8.3320312">Average vote score</text>
+        <text
+           y="599.80011"
+           x="398.90625"
+           font-weight="bold"
+           id="text8477"
+           style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor">time in minutes</text>
+        <path
+           sodipodi:nodetypes="ccccc"
+           style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#1f77b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 30,570 145.625,462.11258 261.25,393.2223 376.875,329.36097 492.5,268.84526"
+           id="path8479"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#2ca02c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M 30,570 145.625,473.6525 261.25,415.55361 376.875,364.3011 492.5,315.79351"
+           id="path8481"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+    <g
+       id="g8537"
+       transform="matrix(0.18989768,0,0,0.18989768,-196.65122,72.710438)">
+      <line
+         id="line8487"
+         x2="-1016"
+         x1="-1010"
+         y1="570.5"
+         y2="570.5"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         y="570.5"
+         id="text8489"
+         dy="3.8399999"
+         x="-1019"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor">0</text>
+      <line
+         id="line8491"
+         x2="-1016"
+         x1="-1010"
+         y1="528.19232"
+         y2="528.19232"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         y="528.19232"
+         id="text8493"
+         dy="3.8399999"
+         x="-1019"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor">2</text>
+      <line
+         id="line8495"
+         x2="-1016"
+         x1="-1010"
+         y1="485.88461"
+         y2="485.88461"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         y="485.88461"
+         id="text8497"
+         dy="3.8399999"
+         x="-1019"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor">4</text>
+      <line
+         id="line8499"
+         x2="-1016"
+         x1="-1010"
+         y1="443.57693"
+         y2="443.57693"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         y="443.57693"
+         id="text8501"
+         dy="3.8399999"
+         x="-1019"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor">6</text>
+      <line
+         id="line8503"
+         x2="-1016"
+         x1="-1010"
+         y1="401.26923"
+         y2="401.26923"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         y="401.26923"
+         id="text8505"
+         dy="3.8399999"
+         x="-1019"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor">8</text>
+      <line
+         id="line8507"
+         x2="-1016"
+         x1="-1010"
+         y1="358.96155"
+         y2="358.96155"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+      <text
+         y="358.96155"
+         id="text8509"
+         dy="3.8399999"
+         x="-1019"
+         style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor">10</text>
+      <text
+         y="343.21756"
+         style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor"
+         id="text8511"
+         font-weight="bold"
+         x="-1031.668">Average vote score</text>
+      <text
+         y="601.80011"
+         x="-873.34375"
+         font-weight="bold"
+         id="text8513"
+         style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor">time in minutes</text>
+      <path
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor"
+         inkscape:connector-curvature="0"
+         class="domain"
+         d="m -1009.5,570.5 h 230.75"
+         id="path8515"
+         sodipodi:nodetypes="cc" />
+      <line
+         id="line8517"
+         y2="576"
+         x1="-1009.5"
+         y1="570"
+         x2="-1009.5"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor" />
+      <text
+         id="text8519"
+         dy="8.5199995"
+         y="579"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:currentColor"
+         x="-1009.5">0</text>
+      <line
+         id="line8521"
+         y2="576"
+         x1="-932.41669"
+         y1="570"
+         x2="-932.41669"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor" />
+      <text
+         id="text8523"
+         dy="8.5199995"
+         y="579"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:currentColor"
+         x="-932.41669">10</text>
+      <line
+         id="line8525"
+         y2="576"
+         x1="-855.33331"
+         y1="570"
+         x2="-855.33331"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor" />
+      <text
+         id="text8527"
+         dy="8.5199995"
+         y="579"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:currentColor"
+         x="-855.33331">20</text>
+      <line
+         id="line8529"
+         y2="576"
+         x1="-778.25"
+         y1="570"
+         x2="-778.25"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor" />
+      <text
+         id="text8531"
+         dy="8.5199995"
+         y="579"
+         style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:currentColor"
+         x="-778.25">30</text>
+      <path
+         style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#1f77b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="M -1010,570 -894.375,462.11258 -778.75,393.2223"
+         id="path8533"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+      <path
+         style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#ff7f0e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+         d="m -1010,570 115.625,-97.52024 115.625,-57.861"
+         id="path8535"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccc" />
+    </g>
+    <text
+       id="text8541"
+       y="80.230659"
+       x="-380.11035"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="80.230659"
+         x="-380.11035"
+         id="tspan8539"
+         sodipodi:role="line">31% less downvotes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-380.24399"
+       y="90.813995"
+       id="text8545"><tspan
+         sodipodi:role="line"
+         id="tspan8543"
+         x="-380.24399"
+         y="90.813995"
+         style="stroke-width:0.26458332">13% less upvotes</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-391.20853"
+       y="102.85351"
+       id="text8549"><tspan
+         sodipodi:role="line"
+         id="tspan8547"
+         x="-391.20853"
+         y="102.85351"
+         style="font-size:4.93888903px;stroke-width:0.26458332">Impact of hiding the comment scores for 60 minutes:</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-380.24399"
+       y="117.27232"
+       id="text8553"><tspan
+         sodipodi:role="line"
+         id="tspan8551"
+         x="-380.24399"
+         y="117.27232"
+         style="stroke-width:0.26458332">80% less downvotes</tspan></text>
+    <text
+       id="text8557"
+       y="127.85565"
+       x="-380.24399"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       xml:space="preserve"><tspan
+         style="stroke-width:0.26458332"
+         y="127.85565"
+         x="-380.24399"
+         id="tspan8555"
+         sodipodi:role="line">18% less upvotes</tspan></text>
+    <g
+       aria-label="Context: Reddit DataViz Battle for the month of September 2019: Visualize the Effect of hiding comment scores in /r/formula1 https://www.reddit.com/r/dataisbeautiful/comments/d0oh2m/battle_dataviz_battle_for_the_month_of_september/"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       id="text8668" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="-44.223213"
+       y="369.00449"
+       id="text9106"><tspan
+         sodipodi:role="line"
+         id="tspan9104"
+         x="-44.223213"
+         y="378.63394"
+         style="stroke-width:0.26458332" /></text>
+    <g
+       id="g9231"
+       transform="matrix(0.81760033,0,0,0.81760033,77.115281,1.4329991)">
+      <text
+         id="text9112"
+         y="345.63153"
+         x="-69.816475"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="345.63153"
+           x="-69.174995"
+           sodipodi:role="line"
+           id="tspan9110">Making-of: </tspan><tspan
+           id="tspan9116"
+           style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           y="358.86069"
+           x="-69.816475"
+           sodipodi:role="line" /></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="31.799721"
+         y="350.92319"
+         id="text9223"><tspan
+           id="tspan9219"
+           sodipodi:role="line"
+           x="31.799721"
+           y="350.92319"
+           style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332">https://observablehq.com/@mef/making-of-the-dataviz-haters-gonna-hate-how-to-decrease-down</tspan><tspan
+           sodipodi:role="line"
+           x="31.799721"
+           y="364.15234"
+           style="font-size:4.93888903px;text-align:center;text-anchor:middle;stroke-width:0.26458332"
+           id="tspan9221" /></text>
+    </g>
+    <g
+       id="g21319"
+       transform="translate(0,8.9958334)">
+      <g
+         id="g7451"
+         transform="matrix(0.18989768,0,0,0.18989768,222.39159,111.82041)">
+        <path
+           id="path5629"
+           d="m -1069.5,660.34375 h 462"
+           class="domain"
+           inkscape:connector-curvature="0"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor"
+           sodipodi:nodetypes="cc" />
+        <g
+           id="g5635"
+           transform="translate(-1069.5,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5631"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5633"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">0</text>
+        </g>
+        <g
+           id="g5641"
+           transform="translate(-992.41667,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5637"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5639"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">10</text>
+        </g>
+        <g
+           id="g5647"
+           transform="translate(-915.33333,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5643"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5645"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">20</text>
+        </g>
+        <g
+           id="g5653"
+           transform="translate(-838.25,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5649"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5651"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">30</text>
+        </g>
+        <g
+           id="g5659"
+           transform="translate(-761.16667,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5655"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5657"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">40</text>
+        </g>
+        <g
+           id="g5665"
+           transform="translate(-684.08333,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5661"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5663"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">50</text>
+        </g>
+        <g
+           id="g5671"
+           transform="translate(-607,659.84375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none">
+          <line
+             id="line5667"
+             y2="6"
+             x1="0"
+             y1="0"
+             x2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5669"
+             dy="0.70999998em"
+             y="9"
+             style="fill:currentColor">60</text>
+        </g>
+        <g
+           id="g5739"
+           transform="translate(-1070,660.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5735"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5737"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-3.5</text>
+        </g>
+        <g
+           id="g5745"
+           transform="translate(-1070,610.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5741"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5743"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-3.0</text>
+        </g>
+        <g
+           id="g5751"
+           transform="translate(-1070,560.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5747"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5749"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-2.5</text>
+        </g>
+        <g
+           id="g5757"
+           transform="translate(-1070,510.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5753"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5755"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-2.0</text>
+        </g>
+        <g
+           id="g5763"
+           transform="translate(-1070,460.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5759"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5761"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-1.5</text>
+        </g>
+        <g
+           id="g5769"
+           transform="translate(-1070,410.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5765"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5767"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-1.0</text>
+        </g>
+        <g
+           id="g5775"
+           transform="translate(-1070,360.34375)"
+           class="tick"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none">
+          <line
+             id="line5771"
+             x2="-6"
+             x1="0"
+             y1="0"
+             y2="0"
+             style="stroke:currentColor" />
+          <text
+             id="text5773"
+             dy="0.31999999em"
+             x="-9"
+             style="fill:currentColor">-0.5</text>
+        </g>
+        <line
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor"
+           y2="310.34375"
+           y1="310.34375"
+           x1="-1070"
+           x2="-1076"
+           id="line5777" />
+        <text
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           x="-1079"
+           dy="3.8399999"
+           id="text5779"
+           y="310.34375">0.0</text>
+        <text
+           x="-1095.3594"
+           font-weight="bold"
+           id="text5781"
+           style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor"
+           y="294.59976">Average vote score</text>
+        <path
+           id="path5787"
+           d="m -1070,309.84375 115.625,66.46575 115.625,105.20548 115.625,87.78082 115.625,72.43835"
+           style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#1f77b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <path
+           sodipodi:nodetypes="ccccc"
+           id="path5791"
+           d="m -1070,309.84375 115.625,9.43134 115.625,75.17338 115.625,49.79195 115.625,50.1387"
+           style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#2ca02c;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           inkscape:connector-curvature="0" />
+        <text
+           y="690.49341"
+           x="-702.09375"
+           font-weight="bold"
+           id="text5795"
+           style="font-weight:bold;text-anchor:start;fill:currentColor">time in minutes</text>
+      </g>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="139.89449"
+         y="200.91548"
+         id="text8583"><tspan
+           sodipodi:role="line"
+           id="tspan8581"
+           x="139.89449"
+           y="200.91548"
+           style="font-size:4.93888903px;stroke-width:0.26458332">downvotes</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="136.45042"
+         y="191.73369"
+         id="text8587"><tspan
+           sodipodi:role="line"
+           id="tspan8585"
+           x="136.45042"
+           y="191.73369"
+           style="font-size:14.11111069px;stroke-width:0.26458332">-80%</tspan></text>
+      <text
+         id="text8591"
+         y="227.83044"
+         x="127.40858"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:4.93888903px;stroke-width:0.26458332"
+           y="227.83044"
+           x="127.40858"
+           id="tspan8589"
+           sodipodi:role="line">upvotes also decreased by 18%.</tspan></text>
+      <text
+         id="text8595"
+         y="159.65273"
+         x="11.714026"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:4.93888903px;fill:#000000;stroke-width:0.26458332"
+           y="159.65273"
+           x="11.714026"
+           id="tspan8593"
+           sodipodi:role="line">Test 2 - hiding comment scores for 60 minutes</tspan></text>
+      <g
+         transform="translate(0,101.07084)"
+         id="g8652">
+        <text
+           y="146.89914"
+           x="22.926748"
+           font-weight="bold"
+           id="text8644"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27876806px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:currentColor;stroke-width:0.18989769">1825 comments with visible score</text>
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27876806px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:currentColor;stroke-width:0.18989769"
+           id="text8646"
+           font-weight="bold"
+           x="22.926748"
+           y="151.34267">1442 comments with score hidden during 60 minutes</text>
+        <rect
+           y="144.67561"
+           x="15.40253"
+           height="2.7379782"
+           width="5.4759564"
+           id="rect8648"
+           style="opacity:1;fill:#1f78b3;fill-opacity:0.70196078;stroke:none;stroke-width:2.07198334;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+        <rect
+           style="opacity:1;fill:#2ca02c;fill-opacity:0.70196078;stroke:none;stroke-width:2.07198334;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect8650"
+           width="5.4759564"
+           height="2.7379782"
+           x="15.40253"
+           y="149.11914" />
+      </g>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8660"
+         d="m 107.02875,205.70186 v 27.98237 l 26.87328,-45.46293 z"
+         style="fill:#2ca02c;fill-opacity:0.17419356;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         id="g9163"
+         data-name="Layer 2"
+         transform="matrix(0.5953125,0,0,0.5953125,174.09583,179.54287)"
+         style="fill:#008000">
+        <g
+           id="g9161"
+           style="fill:#008000">
+          <path
+             id="path9157"
+             d="M 7,9 H 1 a 1,1 0 0 0 -1,1 v 13 a 1,1 0 0 0 1,1 H 7 A 1,1 0 0 0 8,23 V 10 A 1,1 0 0 0 7,9 Z M 5,23 a 1,1 0 1 1 1,-1 1,1 0 0 1 -1,1 z"
+             inkscape:connector-curvature="0"
+             style="fill:#008000" />
+          <path
+             id="path9159"
+             d="M 24,14 A 2,2 0 0 0 22,12 H 21 A 2,2 0 0 0 21,8 H 16 V 4 A 4,4 0 0 0 12,0 v 4.3 a 7.52,7.52 0 0 1 -3,6 V 22 l 5,2 h 5 a 2,2 0 0 0 0,-4 h 2 a 2,2 0 0 0 2,-2 v 0 a 2,2 0 0 0 -2,-2 h 1 a 2,2 0 0 0 2,-2 z"
+             inkscape:connector-curvature="0"
+             style="fill:#008000" />
+        </g>
+      </g>
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4902"
+         d="m 107.02875,206.4983 v 26.26123"
+         style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:2.8, 2.8;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Mstart);marker-end:url(#Arrow2Mend)" />
+    </g>
+    <g
+       id="g21236"
+       transform="translate(0,10.583333)">
+      <g
+         id="g7400"
+         transform="matrix(0.18989768,0,0,0.18989768,222.39159,104.78297)">
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-1070,40.5)"
+           id="g5589">
+          <line
+             style="stroke:currentColor"
+             y2="0"
+             y1="0"
+             x1="0"
+             x2="-6"
+             id="line5585" />
+          <text
+             style="fill:currentColor"
+             x="-9"
+             dy="0.31999999em"
+             id="text5587">-2.0</text>
+        </g>
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-1070,-9.5)"
+           id="g5595">
+          <line
+             style="stroke:currentColor"
+             y2="0"
+             y1="0"
+             x1="0"
+             x2="-6"
+             id="line5591" />
+          <text
+             style="fill:currentColor"
+             x="-9"
+             dy="0.31999999em"
+             id="text5593">-1.5</text>
+        </g>
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-1070,-59.5)"
+           id="g5601">
+          <line
+             style="stroke:currentColor"
+             y2="0"
+             y1="0"
+             x1="0"
+             x2="-6"
+             id="line5597" />
+          <text
+             style="fill:currentColor"
+             x="-9"
+             dy="0.31999999em"
+             id="text5599">-1.0</text>
+        </g>
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-1070,-109.5)"
+           id="g5607">
+          <line
+             style="stroke:currentColor"
+             y2="0"
+             y1="0"
+             x1="0"
+             x2="-6"
+             id="line5603" />
+          <text
+             style="fill:currentColor"
+             x="-9"
+             dy="0.31999999em"
+             id="text5605">-0.5</text>
+        </g>
+        <line
+           id="line5609"
+           x2="-1076"
+           x1="-1070"
+           y1="-159.5"
+           y2="-159.5"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:none;stroke:currentColor" />
+        <text
+           id="text5611"
+           dy="3.8399999"
+           x="-1079"
+           style="font-size:medium;font-family:sans-serif;text-anchor:end;fill:currentColor"
+           y="-159.5">0.0</text>
+        <text
+           style="font-weight:bold;font-size:medium;font-family:sans-serif;text-anchor:start;fill:currentColor"
+           id="text5613"
+           font-weight="bold"
+           x="-1095.3594"
+           y="-187.93289">Average vote score</text>
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#1f77b4;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="M -1070,-160 -954.375,-93.534247 -838.75,11.67123"
+           id="path5619" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           style="opacity:0.7;mix-blend-mode:multiply;fill:none;stroke:#ff7f0e;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none"
+           d="m -1070,-160 115.625,49.94253 115.625,80.8046"
+           id="path5621" />
+        <path
+           sodipodi:nodetypes="cc"
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;fill:none;stroke:currentColor"
+           inkscape:connector-curvature="0"
+           class="domain"
+           d="m -1069.5,40.5 h 230.75"
+           id="path5461" />
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-1069.5,40)"
+           id="g5467">
+          <line
+             style="stroke:currentColor"
+             x2="0"
+             y1="0"
+             x1="0"
+             y2="6"
+             id="line5463" />
+          <text
+             style="fill:currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text5465">0</text>
+        </g>
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-992.41667,40)"
+           id="g5473">
+          <line
+             style="stroke:currentColor"
+             x2="0"
+             y1="0"
+             x1="0"
+             y2="6"
+             id="line5469" />
+          <text
+             style="fill:currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text5471">10</text>
+        </g>
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-915.33333,40)"
+           id="g5479">
+          <line
+             style="stroke:currentColor"
+             x2="0"
+             y1="0"
+             x1="0"
+             y2="6"
+             id="line5475" />
+          <text
+             style="fill:currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text5477">20</text>
+        </g>
+        <g
+           style="font-size:medium;font-family:sans-serif;text-anchor:middle;opacity:1;fill:none"
+           class="tick"
+           transform="translate(-838.25,40)"
+           id="g5485">
+          <line
+             style="stroke:currentColor"
+             x2="0"
+             y1="0"
+             x1="0"
+             y2="6"
+             id="line5481" />
+          <text
+             style="fill:currentColor"
+             y="9"
+             dy="0.70999998em"
+             id="text5483">30</text>
+        </g>
+        <text
+           style="font-weight:bold;text-anchor:start;fill:currentColor"
+           id="text5627"
+           font-weight="bold"
+           x="-933.34375"
+           y="70.649658">time in minutes</text>
+      </g>
+      <text
+         id="text8185"
+         y="85.900299"
+         x="136.45042"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:14.11111069px;stroke-width:0.26458332"
+           y="85.900299"
+           x="136.45042"
+           id="tspan8183"
+           sodipodi:role="line">-31%</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="127.40858"
+         y="111.41369"
+         id="text8189"><tspan
+           sodipodi:role="line"
+           id="tspan8187"
+           x="127.40858"
+           y="111.41369"
+           style="font-size:4.93888903px;stroke-width:0.26458332">upvotes also decreased by 13%.</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         x="11.714026"
+         y="60.983379"
+         id="text8561"><tspan
+           sodipodi:role="line"
+           id="tspan8559"
+           x="11.714026"
+           y="60.983379"
+           style="font-size:4.93888903px;stroke-width:0.26458332">Test 1 - hiding comment scores for 30 minutes</tspan></text>
+      <g
+         transform="translate(0,-21.166667)"
+         id="g8642">
+        <text
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27876806px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:currentColor;stroke-width:0.18989769"
+           id="text8601"
+           font-weight="bold"
+           x="22.926748"
+           y="146.89914">1825 comments with visible score</text>
+        <text
+           y="151.34267"
+           x="22.926748"
+           font-weight="bold"
+           id="text8618"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.27876806px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:currentColor;stroke-width:0.18989769">1740 comments with score hidden during 30 minutes</text>
+        <rect
+           style="opacity:1;fill:#1f78b3;fill-opacity:0.70196078;stroke:none;stroke-width:2.07198334;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect8597"
+           width="5.4759564"
+           height="2.7379782"
+           x="15.40253"
+           y="144.67561" />
+        <rect
+           y="149.11914"
+           x="15.40253"
+           height="2.7379782"
+           width="5.4759564"
+           id="rect8599"
+           style="opacity:1;fill:#ff7f0e;fill-opacity:0.70196078;stroke:none;stroke-width:2.07198334;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      </g>
+      <text
+         id="text8656"
+         y="95.082169"
+         x="139.89449"
+         style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+         xml:space="preserve"><tspan
+           style="font-size:4.93888903px;stroke-width:0.26458332"
+           y="95.082169"
+           x="139.89449"
+           id="tspan8654"
+           sodipodi:role="line">downvotes</tspan></text>
+      <path
+         inkscape:connector-curvature="0"
+         id="path8662"
+         d="m 63.114911,99.227923 v 7.771387 L 133.10022,82.330193 Z"
+         style="fill:#ff7f0d;fill-opacity:0.17254902;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <g
+         style="fill:#008000"
+         transform="matrix(0.5953125,0,0,0.5953125,174.09583,73.716372)"
+         data-name="Layer 2"
+         id="Layer_2">
+        <g
+           style="fill:#008000"
+           id="Icon">
+          <path
+             style="fill:#008000"
+             inkscape:connector-curvature="0"
+             d="M 7,9 H 1 a 1,1 0 0 0 -1,1 v 13 a 1,1 0 0 0 1,1 H 7 A 1,1 0 0 0 8,23 V 10 A 1,1 0 0 0 7,9 Z M 5,23 a 1,1 0 1 1 1,-1 1,1 0 0 1 -1,1 z"
+             id="path9139" />
+          <path
+             style="fill:#008000"
+             inkscape:connector-curvature="0"
+             d="M 24,14 A 2,2 0 0 0 22,12 H 21 A 2,2 0 0 0 21,8 H 16 V 4 A 4,4 0 0 0 12,0 v 4.3 a 7.52,7.52 0 0 1 -3,6 V 22 l 5,2 h 5 a 2,2 0 0 0 0,-4 h 2 a 2,2 0 0 0 2,-2 v 0 a 2,2 0 0 0 -2,-2 h 1 a 2,2 0 0 0 2,-2 z"
+             id="path9141" />
+        </g>
+      </g>
+      <path
+         style="fill:none;stroke:#000000;stroke-width:0.69999999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.69999998, 0.69999998;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#marker5550);marker-end:url(#marker5554)"
+         d="m 63.391396,100.47597 v 5.62373"
+         id="path5546"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cc" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="38.966461"
+       y="45.637543"
+       id="text20166"><tspan
+         sodipodi:role="line"
+         id="tspan20164"
+         x="38.966461"
+         y="45.637543"
+         style="font-size:4.93888903px;stroke-width:0.26458332">Analying the effect of hiding comment scores in /r/formula1</tspan></text>
+  </g>
+</svg>
